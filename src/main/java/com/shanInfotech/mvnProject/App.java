@@ -1,7 +1,10 @@
 package com.shanInfotech.mvnProject;
 
+import com.shanInfotech.mvnProject.entity.Mobile;
+
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+    	Mobile m=new Mobile(18210901, "Apple");
+    	System.out.println(m);
     }
 }
