@@ -13,3 +13,4 @@ public class App {
 
 // jar,war,ear
 // java archive files, web archive files, enterprise archive files
+// /MvnProject/target/MvnProject-0.0.1-SNAPSHOT.jar
