@@ -10,3 +10,6 @@ public class App {
     	System.out.println(s);
     }
 }
+
+// jar,war,ear
+// java archive files, web archive files, enterprise archive files
